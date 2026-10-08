@@ -1,0 +1,262 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 4667,
+    "sha256": "723e5edde5ae002b954ecf7c01166b899ac65bd27bde560782c120fbdb950eb8"
+  },
+  {
+    "file": "assets/annotated/MSI_CON17_actual_photo_annotated.png",
+    "bytes": 1641999,
+    "sha256": "f31f54a069e6efcaccb44ccbb246913a7b11f14176b17c6a9056199365d2d8ea"
+  },
+  {
+    "file": "assets/annotated/MSI_CON17_marked_clearly.png",
+    "bytes": 1630281,
+    "sha256": "0d6f62686ece704e1513e997e1c4ac58994fe23e05362ebd38d0d6129ce4782b"
+  },
+  {
+    "file": "assets/annotated/boardview_connectors_location.png",
+    "bytes": 59103,
+    "sha256": "ee587b4a71c229e6dd3e0f91dabbf4f4e5cd56d4115f4e753027eb1fb0044625"
+  },
+  {
+    "file": "assets/annotated/msi_cr420_connector_to_check.png",
+    "bytes": 2468772,
+    "sha256": "01c59b3da8112a6b473facef6bbaca56aae5b46fe5848f25e5954d46cb879ff1"
+  },
+  {
+    "file": "assets/annotated/photo_CON17_search_area.png",
+    "bytes": 1689510,
+    "sha256": "a00cb696e3c7ca5351e667034296266bfab4a6d1f8930dd6b8e44d55ea359199"
+  },
+  {
+    "file": "assets/inspection-crops/connector_early_inspect.png",
+    "bytes": 881524,
+    "sha256": "91e6e64ae209e5ac441fe7852de7b5067d7cc86071a5a8af45839a8e5cf6ad87"
+  },
+  {
+    "file": "assets/inspection-crops/connector_late_inspect.png",
+    "bytes": 606179,
+    "sha256": "11dccf6dfcb268e4cf3b83f4fb9aec73054e897276022159167a7a22a73e8cfe"
+  },
+  {
+    "file": "assets/inspection-crops/fan_sink.png",
+    "bytes": 973239,
+    "sha256": "cb3a88b73790d1f99e54c9ac7f94900abeec226587e3b616b037aa766e05b8a5"
+  },
+  {
+    "file": "assets/inspection-crops/header-detail.jpg",
+    "bytes": 83648,
+    "sha256": "2d3a6caf2125222d7d96cfcf3105fafe193b9ccfc2d3a83c61d750ab1b6f2c2d"
+  },
+  {
+    "file": "assets/inspection-crops/j30_candidate_crop_inspect.png",
+    "bytes": 887934,
+    "sha256": "0e7aac0e4b8c39f87fe1d12c43c2bc0839ec2876c7c2cd91db4848181dd75652"
+  },
+  {
+    "file": "assets/inspection-crops/top_left.png",
+    "bytes": 837898,
+    "sha256": "490a234bfef096362415bf29837edee13fd523878b2a36dbfa70335bd6bcf015"
+  },
+  {
+    "file": "assets/inspection-crops/top_right.png",
+    "bytes": 615342,
+    "sha256": "32d512b402a69079eeca944220b608fcdb15b2d97732654a81b6fe04116f5603"
+  },
+  {
+    "file": "assets/inspection-crops/wifi_left.png",
+    "bytes": 502439,
+    "sha256": "e4f284fa351f70c1400341585c687e8a0d2ae5768d6d0ed0ee4ff04cdb41e4be"
+  },
+  {
+    "file": "assets/photos/IMG_5EF38E74-0D01-44EB-B8B1-0DAD7F18987E.jpeg",
+    "bytes": 481161,
+    "sha256": "02e2d5dd2778ac6d391ac8e28c5418e474424a1eb926effbd017b8ce650f494c"
+  },
+  {
+    "file": "assets/photos/IMG_7AEF27F3-113E-43F3-A630-BF5CCCEE1AC9.jpeg",
+    "bytes": 479292,
+    "sha256": "c35400c4ad545a7d7ba9c359d9c4c57af242729b6724d5b66b716db78fe99130"
+  },
+  {
+    "file": "assets/photos/IMG_8296.jpeg",
+    "bytes": 879036,
+    "sha256": "70c87fb494301a310b6f89f55ab184829bc5f1fbf9941671e89a848f47d10eb6"
+  },
+  {
+    "file": "assets/photos/IMG_8297.jpeg",
+    "bytes": 746551,
+    "sha256": "2ee14c1e38c49a16e5363a61ee91f30b76ededc43527ceaaed25f3c91ab22287"
+  },
+  {
+    "file": "assets/photos/IMG_8298.jpeg",
+    "bytes": 812504,
+    "sha256": "3c66fea83ea7e1f63b4d1ca33ce929c590ee22ca3b168cc568cece958732cf69"
+  },
+  {
+    "file": "assets/photos/IMG_8299.jpeg",
+    "bytes": 705358,
+    "sha256": "9485fa47a2c03ea2abcbcfd80ea850b17973b045c1ae2a366eaaeca15b1249ae"
+  },
+  {
+    "file": "assets/photos/IMG_8326.jpeg",
+    "bytes": 810914,
+    "sha256": "69a929062d5fc78de62b1726c4fb96f3723c816266d368a5e861cd3b05e0eca7"
+  },
+  {
+    "file": "assets/photos/IMG_8328.jpeg",
+    "bytes": 748192,
+    "sha256": "9ed2f6de6c6897aa61d76e73c31f8f4227112a5ed4dbad850d7d6420a3615305"
+  },
+  {
+    "file": "assets/photos/IMG_8329.jpeg",
+    "bytes": 865150,
+    "sha256": "3b5fe2ab2078a0d0e123fa72609d2bc8f754cbb7a72ca650b6a492c0ed085717"
+  },
+  {
+    "file": "assets/photos/IMG_8337.jpeg",
+    "bytes": 479278,
+    "sha256": "34d0e88f07d61c39d0c3f3abbdf46a0d2b74292c4b9e17f2cf4057a369fc7fd5"
+  },
+  {
+    "file": "assets/photos/IMG_8338.jpeg",
+    "bytes": 698979,
+    "sha256": "5b8d20cde4517dca715a0ccd9eb1f25722031eb7e0364b820f12735f33ad51ae"
+  },
+  {
+    "file": "assets/photos/IMG_8343.jpeg",
+    "bytes": 414864,
+    "sha256": "ee38a0f61860344e8e68ba41bd635a89a324ba1dba5efafb63e95aa3bf8cd1bb"
+  },
+  {
+    "file": "assets/photos/IMG_8344.jpeg",
+    "bytes": 453922,
+    "sha256": "9c55c219ee8b67615ff09bee59d84db2ac2493c89729a5b89d1f6df4f0dd6252"
+  },
+  {
+    "file": "assets/photos/IMG_8590EECC-8FD1-413C-B2FA-C6A20F227057.jpeg",
+    "bytes": 463430,
+    "sha256": "cc18afff58e58f5ceb658a226e7159efd07d920dad5202545a1beaf60d0edc9e"
+  },
+  {
+    "file": "assets/photos/IMG_85C83386-7E5D-47FA-8166-B9BD98E7F540.jpeg",
+    "bytes": 473656,
+    "sha256": "212e585512cbcd40f805c53716287b86615350589d433080686075dc6937ebbe"
+  },
+  {
+    "file": "assets/photos/IMG_912E900D-D8B5-4CA1-B446-F7E134ED0A61.jpeg",
+    "bytes": 490595,
+    "sha256": "c99f8b596ec7b715c8ec83d364ab5b2a1afd8b755e93ed7b9d0bb07b10360b93"
+  },
+  {
+    "file": "assets/photos/IMG_A05A5F15-E3C2-4BDF-9109-655F81DE1C40.jpeg",
+    "bytes": 485541,
+    "sha256": "8970849d5ea31f527d2d85c7dca04a790d45b361fd9366772d9cabe96fd0511d"
+  },
+  {
+    "file": "assets/photos/IMG_B939E5A4-A75F-407D-806E-54C46E1F83F4.jpeg",
+    "bytes": 388914,
+    "sha256": "6f4a4412d036a3a44c50195169c78ac364d4a1a524cb6c01121860c9e69c6dc2"
+  },
+  {
+    "file": "assets/photos/IMG_BE0E43E0-707B-4B10-A99F-FA1DAF444201.jpeg",
+    "bytes": 270799,
+    "sha256": "4be0a740e014c9c8f5f40f43dce4a8987d9a8244de697f34a37cf7b60bf33491"
+  },
+  {
+    "file": "assets/photos/IMG_C05D4F93-C552-4121-BCCA-11956A11658C.jpeg",
+    "bytes": 415424,
+    "sha256": "b1c72d9d51cb2f22a283b124fafabd1907f1f8fe02ebfc0d1bef679bcf147f15"
+  },
+  {
+    "file": "assets/photos/IMG_CC30BA4D-1272-47B8-A7FC-35F47405A0B9.jpeg",
+    "bytes": 484774,
+    "sha256": "e0bf91fd92bdcdd96652af2a2d36af2c2921e7f336a420423755b3869072add4"
+  },
+  {
+    "file": "assets/photos/IMG_D02C55E6-AC69-4ADE-804C-60C7948EA3F2.jpeg",
+    "bytes": 385244,
+    "sha256": "5bf6136b44f80901a552a69e4780178a4bd8a538b0e86960832e3aa97601890c"
+  },
+  {
+    "file": "assets/photos/IMG_D6D3522C-7A87-43E1-8669-B07761A0D8F2.jpeg",
+    "bytes": 231339,
+    "sha256": "4d8331308eaedbd1c96d061343179bad16009ba798f14830c57ce10cef70ddda"
+  },
+  {
+    "file": "assets/photos/IMG_DA72EA58-9FEA-475C-9146-DCDC3D99ACDA.jpeg",
+    "bytes": 369779,
+    "sha256": "16a0f8f03a22bc4eb47b6a63a187d18baec4d4fd46a7509132ba93fa898d80d9"
+  },
+  {
+    "file": "assets/photos/camphoto_1254324197.jpeg",
+    "bytes": 541857,
+    "sha256": "e383409030ea8cc12d15777fb96715c9eddc06f9b9f17de6dc6a7aae7ef99ffa"
+  },
+  {
+    "file": "boardview/MSI MS-14531_MS-14541 boardview.brd",
+    "bytes": 591378,
+    "sha256": "0e2004367e723de2c0348382996dcd6f8b2a27de1a943a9c0a983928819afe1b"
+  },
+  {
+    "file": "boardview/MSI MS-14531_MS-14541 boardview.zip",
+    "bytes": 146795,
+    "sha256": "7a50775080a7e85538a61003c920095f7f7ef1cf4b739a1dd4a78961dd627a24"
+  },
+  {
+    "file": "boardview/README.md",
+    "bytes": 736,
+    "sha256": "ff8fda5bac419bcb84969dd121f30c30391057a3cb8a2eb00cd5962637973696"
+  },
+  {
+    "file": "docs/bluetooth-investigation.md",
+    "bytes": 4140,
+    "sha256": "1b56e1f2ae7325610046a0b12b99bfc195b262873e9fc14a8c5793a6eb41a636"
+  },
+  {
+    "file": "docs/boardview-notes.md",
+    "bytes": 2799,
+    "sha256": "31132e37d37abd89831a3e8266c7da265d51fd2b28f0365ba1294ac354a6e721"
+  },
+  {
+    "file": "docs/cooling-repair.md",
+    "bytes": 2806,
+    "sha256": "5c1df4796a059ede091b056211f987eb0a82a65b43fa723edf1931011f67cddb"
+  },
+  {
+    "file": "docs/hardware-inventory.md",
+    "bytes": 2230,
+    "sha256": "48d6bbd4c9f3153dd07ef14003bbec828cb0e334f3d22283fc826db7c392cd37"
+  },
+  {
+    "file": "docs/photo-index.md",
+    "bytes": 5484,
+    "sha256": "df0a8741f019218faff83a4a3eda8f638771a8efba04a9abf9e44eddd33b4ca6"
+  },
+  {
+    "file": "docs/sources.md",
+    "bytes": 2771,
+    "sha256": "fe033e436bfc5c90c6208b55d59daa2132d54e56ea1f192080d8f1c577718c53"
+  },
+  {
+    "file": "docs/timeline.md",
+    "bytes": 2165,
+    "sha256": "62f2d6447ec266aa85c00f3c928dc456e8d364a32742e70d78bb9d6028908f9c"
+  },
+  {
+    "file": "docs/webcam-plan.md",
+    "bytes": 1427,
+    "sha256": "c9bb989c3b708e69617809ab42ebaf3a8d6a05f8a97ee416fb9b14cb7c7d3686"
+  },
+  {
+    "file": "scripts/collect-hardware.sh",
+    "bytes": 1189,
+    "sha256": "5954770660d618af529f782d689da11e529d9d44436de4243f4fa537d43eb471"
+  },
+  {
+    "file": "scripts/monitor-thermals.sh",
+    "bytes": 330,
+    "sha256": "8dc3330683d2dbb28aef1c00758757fab1e9227b78084d6b7e950de6554967a7"
+  }
+]
